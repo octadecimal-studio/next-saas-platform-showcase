@@ -19,12 +19,12 @@ export default defineConfig({
     { name: 'firefox-desktop', use: { ...devices['Desktop Firefox'] } },
     { name: 'mobile-chrome', use: { ...devices['Pixel 7'] } },
   ],
-  webServer: process.env.CI
-    ? undefined
-    : {
-        command: 'npm run dev',
-        url: baseURL,
-        reuseExistingServer: !process.env.CI,
-        timeout: 120_000,
-      },
+  webServer: {
+    command: process.env.CI ? 'npm run start' : 'npm run dev',
+    url: baseURL,
+    reuseExistingServer: !process.env.CI,
+    timeout: 120_000,
+    stdout: 'pipe',
+    stderr: 'pipe',
+  },
 });
