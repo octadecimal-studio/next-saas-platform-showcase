@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "siteName": "Octadecimal Cloud",
+    "defaultTitle": "Octadecimal Cloud — Dane i automatyzacja dla polskich firm",
+    "defaultDescription": "Platforma SaaS z dostepem do danych REGON/KRS/CEIDG, monitoringiem zamowien publicznych i narzedziami automatyzacji lead-genu."
+  },
+  "nav": {
+    "products": "Produkty",
+    "caseStudies": "Case studies",
+    "pricing": "Cennik",
+    "contact": "Kontakt",
+    "login": "Zaloguj sie",
+    "openMenu": "Otworz menu",
+    "closeMenu": "Zamknij menu"
+  },
+  "hero": {
+    "eyebrow": "Platforma SaaS",
+    "title": "Dane i automatyzacja dla polskich firm",
+    "subtitle": "Trzy produkty SaaS. Jedna platforma. Architektura gotowa na kolejne.",
+    "ctaPrimary": "Zobacz produkty",
+    "ctaSecondary": "Skontaktuj sie"
+  },
+  "products": {
+    "title": "Nasze produkty",
+    "subtitle": "Trzy produkty w produkcji i na starcie. Wiecej w drodze.",
+    "viewAll": "Zobacz wszystkie produkty",
+    "filter": {
+      "all": "Wszystkie",
+      "category": "Kategoria",
+      "status": "Status",
+      "clear": "Wyczysc filtry"
+    },
+    "status": {
+      "production": "Produkcja",
+      "beta": "Beta",
+      "coming-soon": "Wkrotce",
+      "deprecated": "Archiwum"
+    },
+    "category": {
+      "data": "Dane",
+      "automation": "Automatyzacja",
+      "ai": "AI",
+      "tools": "Narzedzia"
+    },
+    "detailsLink": "Szczegoly",
+    "learnMore": "Dowiedz sie wiecej",
+    "empty": "Brak produktow spelniajacych kryteria."
+  },
+  "features": {
+    "title": "Dlaczego Octadecimal Cloud",
+    "subtitle": "Cztery filary platformy",
+    "items": {
+      "data": {
+        "title": "Dane w jednym miejscu",
+        "description": "REGON, KRS, CEIDG, zamowienia publiczne — dostep przez jedno API."
+      },
+      "automation": {
+        "title": "Gotowe automatyzacje",
+        "description": "Workflow dla marketingu, sprzedazy i operacji. Bez kodowania."
+      },
+      "ai": {
+        "title": "AI do twojej pracy",
+        "description": "Asystenci AI dopasowani do twojej branzy i procesow."
+      },
+      "integration": {
+        "title": "Integracje z twoim CRM",
+        "description": "Twenty, HubSpot, Pipedrive — webhook-i i API od razu."
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Case studies",
+    "subtitle": "Zobacz jak klienci uzywaja Octadecimal Cloud",
+    "readMore": "Przeczytaj case study"
+  },
+  "cta": {
+    "title": "Zaczynamy?",
+    "subtitle": "Umow rozmowe lub pisz przez formularz. Odpowiadamy w ciagu 24h w dni robocze.",
+    "button": "Skontaktuj sie"
+  },
+  "contact": {
+    "title": "Porozmawiajmy",
+    "subtitle": "Zostaw wiadomosc, odezwiemy sie w ciagu 24h",
+    "form": {
+      "name": "Imie i nazwisko",
+      "namePlaceholder": "Jan Kowalski",
+      "email": "Email",
+      "emailPlaceholder": "jan@firma.pl",
+      "company": "Firma",
+      "companyPlaceholder": "Nazwa firmy (opcjonalnie)",
+      "phone": "Telefon",
+      "phonePlaceholder": "+48 (opcjonalnie)",
+      "productInterest": "Produkt",
+      "productInterestPlaceholder": "Wybierz produkt",
+      "productInterestNone": "Nie wiem jeszcze",
+      "message": "Wiadomosc",
+      "messagePlaceholder": "Opowiedz nam o swoim problemie",
+      "consent": "Wyrazam zgode na przetwarzanie danych osobowych zgodnie z polityka prywatnosci",
+      "submit": "Wyslij wiadomosc",
+      "submitting": "Wysylanie...",
+      "success": "Dziekujemy! Odezwiemy sie w ciagu 24h.",
+      "error": "Cos poszlo nie tak. Sprobuj ponownie lub napisz na kontakt@octadecimal.cloud",
+      "errors": {
+        "nameMin": "Imie i nazwisko musi miec min. 2 znaki",
+        "emailInvalid": "Nieprawidlowy adres email",
+        "messageMin": "Wiadomosc musi miec min. 10 znakow",
+        "consentRequired": "Wymagana jest zgoda na przetwarzanie danych"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Octadecimal HQ. Wszelkie prawa zastrzezone.",
+    "privacy": "Polityka prywatnosci",
+    "terms": "Regulamin",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "privacy": {
+    "title": "Polityka prywatnosci",
+    "updatedAt": "Ostatnia aktualizacja: {date}"
+  },
+  "terms": {
+    "title": "Regulamin",
+    "updatedAt": "Ostatnia aktualizacja: {date}"
+  },
+  "notFound": {
+    "title": "Strona nie znaleziona",
+    "description": "Nie znalezlismy tej strony.",
+    "backHome": "Wroc na strone glowna"
+  }
+}

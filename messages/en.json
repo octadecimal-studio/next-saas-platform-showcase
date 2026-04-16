@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "siteName": "Octadecimal Cloud",
+    "defaultTitle": "Octadecimal Cloud — Data and automation for Polish businesses",
+    "defaultDescription": "SaaS platform with REGON/KRS/CEIDG data access, public tenders monitoring, and lead-gen automation tools."
+  },
+  "nav": {
+    "products": "Products",
+    "caseStudies": "Case studies",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Log in",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "SaaS platform",
+    "title": "Data and automation for Polish businesses",
+    "subtitle": "Three SaaS products. One platform. Architecture ready for more.",
+    "ctaPrimary": "See products",
+    "ctaSecondary": "Get in touch"
+  },
+  "products": {
+    "title": "Our products",
+    "subtitle": "Three products in production and launching. More coming.",
+    "viewAll": "View all products",
+    "filter": {
+      "all": "All",
+      "category": "Category",
+      "status": "Status",
+      "clear": "Clear filters"
+    },
+    "status": {
+      "production": "Production",
+      "beta": "Beta",
+      "coming-soon": "Coming soon",
+      "deprecated": "Archived"
+    },
+    "category": {
+      "data": "Data",
+      "automation": "Automation",
+      "ai": "AI",
+      "tools": "Tools"
+    },
+    "detailsLink": "Details",
+    "learnMore": "Learn more",
+    "empty": "No products match the selected filters."
+  },
+  "features": {
+    "title": "Why Octadecimal Cloud",
+    "subtitle": "Four pillars of the platform",
+    "items": {
+      "data": {
+        "title": "Data in one place",
+        "description": "REGON, KRS, CEIDG, public tenders — access through one API."
+      },
+      "automation": {
+        "title": "Ready-to-use automations",
+        "description": "Workflows for marketing, sales, and operations. No code needed."
+      },
+      "ai": {
+        "title": "AI for your work",
+        "description": "AI assistants tailored to your industry and processes."
+      },
+      "integration": {
+        "title": "Integrations with your CRM",
+        "description": "Twenty, HubSpot, Pipedrive — webhooks and API ready to go."
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Case studies",
+    "subtitle": "See how clients use Octadecimal Cloud",
+    "readMore": "Read case study"
+  },
+  "cta": {
+    "title": "Shall we start?",
+    "subtitle": "Book a call or write through the form. We reply within 24h on business days.",
+    "button": "Contact us"
+  },
+  "contact": {
+    "title": "Let's talk",
+    "subtitle": "Leave a message, we'll reply within 24h",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "John Smith",
+      "email": "Email",
+      "emailPlaceholder": "john@company.com",
+      "company": "Company",
+      "companyPlaceholder": "Company name (optional)",
+      "phone": "Phone",
+      "phonePlaceholder": "+48 (optional)",
+      "productInterest": "Product",
+      "productInterestPlaceholder": "Select a product",
+      "productInterestNone": "Not sure yet",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your problem",
+      "consent": "I consent to the processing of personal data in accordance with the privacy policy",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Thank you! We'll reply within 24h.",
+      "error": "Something went wrong. Try again or email contact@octadecimal.cloud",
+      "errors": {
+        "nameMin": "Full name must be at least 2 characters",
+        "emailInvalid": "Invalid email address",
+        "messageMin": "Message must be at least 10 characters",
+        "consentRequired": "Consent to data processing is required"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Octadecimal HQ. All rights reserved.",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updatedAt": "Last updated: {date}"
+  },
+  "terms": {
+    "title": "Terms of service",
+    "updatedAt": "Last updated: {date}"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "We couldn't find this page.",
+    "backHome": "Back to homepage"
+  }
+}
